@@ -95,8 +95,5 @@ export default function FutebolFemininoNews() {
             </Card>
           </motion.div>
         ))}
-      </div>
-      <ChatIA />
-    </div>
   );
 }
